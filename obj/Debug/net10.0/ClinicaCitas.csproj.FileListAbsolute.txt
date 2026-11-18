@@ -33,3 +33,4 @@ D:\1Zegel\5 Ciclo\Cursos\3._Desarrollo de Servicios Web\Parcial\ClinicaCitas\obj
 D:\1Zegel\5 Ciclo\Cursos\3._Desarrollo de Servicios Web\Parcial\ClinicaCitas\obj\Debug\net10.0\ClinicaCitas.genruntimeconfig.cache
 D:\1Zegel\5 Ciclo\Cursos\3._Desarrollo de Servicios Web\Parcial\ClinicaCitas\obj\Debug\net10.0\ref\ClinicaCitas.dll
 D:\1Zegel\5 Ciclo\Cursos\3._Desarrollo de Servicios Web\Parcial\ClinicaCitas\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\1Zegel\5 Ciclo\Cursos\3._Desarrollo de Servicios Web\Parcial\ClinicaCitas\obj\Debug\net10.0\ClinicaCitas.sourcelink.json

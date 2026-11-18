@@ -39,7 +39,7 @@ El proyecto se organiza en una arquitectura monolítica modular, separando respo
 
 ##  Cómo Ejecutar el Proyecto
 
-### Opción A: Abrir con Visual Studio 2022 (Recomendado)
+### Opción A: Abrir con Visual Studio 2026 (Recomendado)
 1. Navega a la carpeta del proyecto y haz doble clic en el archivo `ClinicaCitas.sln`.
 2. En la barra superior, asegúrate de seleccionar el perfil de ejecución **`http`** o **`ClinicaCitas`** (no IIS Express ni el archivo Program.cs).
 3. Presiona el botón verde de **Play** (o la tecla `F5`).
